@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![greenforest's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenforest2520&theme=vue-dark&show_icons=true)](https://github.com/greenforest2520/github-readme-stats)
 <!--
 **greenforest2520/greenforest2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
